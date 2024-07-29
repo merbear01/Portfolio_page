@@ -3809,3 +3809,10 @@ input[type="submit"]{
 	width:30%;
 	height:30%;
 }
+
+img.circular {
+	border-radius: 50%;
+	width: 400px;
+	height: 400px;
+	object-fit: cover;
+}
